@@ -1,0 +1,1 @@
+<structure><type>grammar</type><production><left>S</left><right>aAB</right></production><production><left>A</left><right>ab</right></production><production><left>B</left><right>bc</right></production></structure>

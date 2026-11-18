@@ -1,0 +1,1 @@
+<structure><type>grammar</type><production><left>S</left><right>aA</right></production><production><left>A</left><right>bB</right></production><production><left>B</left><right>c</right></production></structure>

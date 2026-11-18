@@ -1,0 +1,1 @@
+<structure><type>fa</type><automaton><state id="0" name="qS"><x>100</x><y>120</y><initial/></state><state id="1" name="qF"><x>280</x><y>120</y><final/></state><transition><from>0</from><to>0</to><read>a</read></transition><transition><from>0</from><to>1</to><read>b</read></transition></automaton></structure>
